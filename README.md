@@ -11,6 +11,12 @@ This template should help get you started developing with Vue 3 in Vite with Boo
 git clone https://github.com/aarondeloach/vue-template.git
 ```
 
+### Change Working Directories
+
+```sh
+cd vue-template
+```
+
 ### Install the Assets
 
 ```sh
